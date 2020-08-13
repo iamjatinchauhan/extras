@@ -1,0 +1,9 @@
+WebAIM quick reference
+
+There is no easy (or fully-automated) way to do full accessibility test of your site. 
+You can find some tools to help you, but it still takes a human to evaluate many elements. 
+The WebAIM Quick Reference is a list of steps that you can take. 
+For your portfolio you may want to pick just a few of the many suggestions and implement 
+them as one of your advanced options.
+
+http://webaim.org/resources/evalquickref/evalquickref.pdf

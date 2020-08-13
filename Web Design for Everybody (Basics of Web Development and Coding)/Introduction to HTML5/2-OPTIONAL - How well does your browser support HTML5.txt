@@ -1,0 +1,7 @@
+You can watch:
+-The True Story of the Internet- Browser Wars
+-Joseph Hardin- NCSA Mosaic
+
+You can check to see if the browser that you are using supports most of the HTML5 tags
+by going to http://html5test.com/index.html. This site will give you a score for the browser you are using. 
+You can also click on the "Other Browsers" link to get an idea of how the other browsers are doing.

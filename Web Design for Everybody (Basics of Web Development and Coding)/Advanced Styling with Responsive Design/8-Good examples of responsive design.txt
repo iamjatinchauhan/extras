@@ -1,0 +1,5 @@
+---------------------------------------------
+OPTIONAL: Good examples of responsive design
+---------------------------------------------
+The following is a link to good examples of responsive design: 
+http://www.awwwards.com/50-examples-of-responsive-web-design.html

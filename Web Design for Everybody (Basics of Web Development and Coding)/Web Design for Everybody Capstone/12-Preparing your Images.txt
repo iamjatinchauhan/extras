@@ -1,0 +1,20 @@
+Preparing your Images
+
+Using CSS to style your images is a common approach. 
+However, it is rarely a good idea to use CSS to style the size of your images!! 
+Often the height/width ratio of your images becomes skewed. 
+Or you end up with neighboring images that don't "right." 
+Instead, identify those images that will be grouped together use other editing software 
+to get your image sizes consistent. 
+You can also create multiple copies of images and use condensed versions on your mobile site to preserve bandwidth.
+
+Software choices:
+
+Mac:
+
+Preview: http://computers.tutsplus.com/tutorials/preview-os-xs-secret-weapon-image-editor--mac-49111
+
+Windows:
+
+Paint: http://www.digitalcitizen.life/how-edit-photos-windows-live-photo-gallery
+

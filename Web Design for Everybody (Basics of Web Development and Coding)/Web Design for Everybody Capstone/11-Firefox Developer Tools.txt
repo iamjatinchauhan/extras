@@ -1,0 +1,13 @@
+Firefox Developer Tools
+
+If you are using Firefox to develop your site the Inspector looks different than my examples in Chrome. 
+The overall guide for using the Firefox Developer Tools can be found here:
+
+https://developer.mozilla.org/en-US/docs/Tools
+
+However, if this site is intimidating, you can jump immediately to the the following section 
+that most resemble what I have done with Chrome:
+Open The Inspector:
+
+https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Open_the_Inspector
+

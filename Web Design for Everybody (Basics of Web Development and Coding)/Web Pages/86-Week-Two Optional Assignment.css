@@ -1,0 +1,138 @@
+body{
+	margin: 1%;
+	padding:1%;
+	background-color: rgba(0,0,255,0.2);
+	font-size: 100%;
+	min-width: 500px;
+}
+header, footer{
+  background-color:#0066FF;
+  padding: 1%;
+  margin: 1%;
+}
+header h1{
+	font-size: 3rem;
+	color:rgba(0,0,0,.7);;
+
+}
+
+section{
+  margin:1%;
+    padding:1%;
+}
+
+nav a{
+	display:block;
+	background-color: white;
+	border: 1px solid black;
+	text-align: center;
+	border-radius: 35px;
+	text-decoration: none;
+	padding: 2%;
+	margin: 1%;
+}
+
+h1{
+	text-align: center;
+	color:rgba(255,0,0,.7);;
+}
+
+
+.myClass{
+	margin: 0em 1em;
+	padding:.75em;
+	border: 1px solid black;
+	border-radius: .25%;
+
+	/* Safari and Chrome */	
+	-webkit-column-count:3;
+	-moz-column-count: 3;
+	column-count:3;
+	
+}
+
+
+
+ol{
+	list-style:upper-roman; 
+	margin:1em;
+}
+img{
+	display: none;
+}
+
+footer{
+	clear: both;
+	text-align:center;
+	text-transform: uppercase;
+}
+
+@media all and (min-width: 900px){
+	
+	header,footer{
+		background-color: rgba(202,205,252,0.5);
+	}
+
+	h1::after{
+		content: "(I guess...)";
+	}
+
+	section{
+		display: inline-block;
+	}
+
+	#left{
+		float: left;
+		width: 20%;
+	}
+
+	#center{
+		width: 70%;
+	}
+
+
+	img{
+		display: inline-block;
+		width: 21%;
+		margin-top: 20px;
+		padding: 1%;
+		margin-left: 1%;
+	}
+
+}
+
+@media print {
+	
+	body{
+		background-color: #ffffff;
+		font-size: 100%;
+	}
+
+	h1{
+		font-size: 1em !important;
+	}
+
+	nav a{
+		display:block;
+		border: none;
+		padding: 0;
+		margin: 0;
+		text-decoration: underline;
+	}
+
+	section{
+		display: block;
+	}
+
+	#left{
+		width: 100%;
+	}
+
+	#center{
+		width: 100%;
+	}
+
+	img{
+		display: none;
+	}
+}

@@ -1,0 +1,10 @@
+Using Forms on Your Site
+
+As I mentioned earlier, 
+the forms we are making right now are a great way to work with JavaScript, 
+but you wouldn't want to put these forms on your page since you don't know 
+how to deal with the information that people may send. 
+Luckily, now that you know a little about forms you are in a great place to utilize free form builders. 
+Many people already use Google Forms to create online forms. 
+Another great place that I would recommend is WUFOO http://www.wufoo.com/. 
+This site is highly recommended for deploying forms.

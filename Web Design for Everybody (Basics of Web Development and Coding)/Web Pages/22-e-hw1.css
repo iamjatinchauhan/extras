@@ -1,0 +1,27 @@
+header{
+	background: rgb(192,192,192);
+	text-align: center;
+    height: 80px;
+}
+nav{
+    float: left;
+    text-transform: capitalize;
+}
+a{
+    background-color: #d3d3d3;
+    color: black;
+}
+h1{
+	color: #ffffff;
+    text-transform:uppercase;
+}
+h2{
+    text-transform:uppercase;
+    color: darkblue;
+}
+main{
+    background: rgba(01,01,91,0.5);
+}
+img{
+    display: none;
+}

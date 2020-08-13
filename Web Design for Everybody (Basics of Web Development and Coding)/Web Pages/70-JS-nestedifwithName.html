@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset = "UTF-8">
+    <title>JS - nested if with Name</title>
+</head>
+<body>
+    <script>
+    var name = prompt("What is your name?")
+    if (name.length != 0){
+        if (name == "Colleen")
+          document.write("What a beautiful name");
+        else
+          document.write("Hello " +  name);
+    }
+    else
+       document.write("Feeling shy?");
+
+     /*As soon as a conditional is matched, the rest can be skipped*/
+        
+        /*
+        if(name.length!=0 && name == "Collen")
+            document.write("what a beautiful name");
+        if(name.length!=0 && name != "Collen")
+            document.write("Hello" + name);
+        if(name.length == 0)
+            document.write("Feeling shy?");
+        
+        */
+    </script>
+</body>
+</html>

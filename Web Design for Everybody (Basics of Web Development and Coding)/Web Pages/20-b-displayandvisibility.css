@@ -1,0 +1,29 @@
+span{
+    height:50px;
+    width:75px;
+    background: #00ff00;
+    display: inline-block;
+    /*display: block; */
+    /*display:try block and inline block:*/
+    /*float8*/
+    float: right;
+    /* try float as right,center*/
+}
+    
+div{
+    height:100px;
+    width:45%;
+    background:red;
+    
+    /*clear: both;*/
+    /* display:;*/
+    /*float:;*/
+}
+
+p{
+    background: royalblue;
+    width:200px;
+    height:100px;
+    
+    
+}

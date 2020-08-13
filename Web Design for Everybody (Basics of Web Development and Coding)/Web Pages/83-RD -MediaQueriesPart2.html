@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset = "UTF-8">
+    <title>My First Page</title>
+    <style>
+    /* Do these need to be reordered? */
+
+    h1{ 
+      width:100%;
+      background: green; 
+    }
+
+    @media only screen and (min-width: 780px) {
+            h1{ 
+          background: yellow; 
+          width:50%;
+          color:white;
+      }
+    }
+    @media only screen and (min-width: 1024px) {
+            h1{ 
+          background: blue;
+          width:25%;
+        }
+    }
+
+    </style>
+</head>
+<body>
+    <h1>Media Queries Part Two</h1>
+Blue on Big Screen
+Yellow on Medium
+Green on Small
+
+</body>
+</html>

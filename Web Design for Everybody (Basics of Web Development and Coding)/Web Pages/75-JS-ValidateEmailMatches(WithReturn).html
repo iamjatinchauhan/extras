@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset = "UTF-8">
+    <title>My First Page</title>
+    <style>
+    input:focus{
+		background-color: #B3B3B3;
+}
+label{
+		display: block;
+  font-size:150%;
+}
+    </style>
+    <script>
+    function check() {
+      var email1 = document.getElementById('email_addr');
+      var email2 = document.getElementById('email_repeat');
+ 	 		if ( email1.value != email2.value) {
+ 	 			 alert("The two emails must match!!");
+         return false;
+  		}
+}
+    </script>
+</head>
+<body>
+    <form>
+  <label>Preferred email address:
+  		<input type="email" id="email_addr" name="email1" value = "me@me.com" required></label>
+
+  	<label>Repeat email address:
+  		<input type="email" id="email_repeat" name="email2" required onchange="return check()"></label>
+
+  <input type = 'submit' value = "Confirm Emails!" onclick = "return check();">
+</form>  
+</body>
+</html>

@@ -1,0 +1,10 @@
+This CodePen by Chris Coyier will let you use sliders to dynamically change the font size on a page
+
+http://codepen.io/chriscoyier/pen/tvheK
+
+This demo goes with one of the readings on Fluid Measurements, 
+but I am including it here again just in case you missed the code. 
+You can read it here if you want to know how to use the tool. 
+
+https://css-tricks.com/rems-ems/
+

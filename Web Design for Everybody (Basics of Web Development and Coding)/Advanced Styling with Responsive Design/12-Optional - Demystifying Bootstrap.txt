@@ -1,0 +1,6 @@
+I am about to go into some of the more advanced classes in Bootstrap. 
+Before we begin, are you looking for another reference on Bootstrap? 
+I found that this article did a nice job of showing Bootstrap classes along with the CSS that goes with them. 
+http://www.sitepoint.com/responsive-web-design-tips-bootstrap-css/
+
+This material is not required for the course.

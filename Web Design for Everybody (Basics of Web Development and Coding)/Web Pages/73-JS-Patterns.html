@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset = "UTF-8">
+    <title>My First Page</title>
+    <style>
+        input{
+        position:absolute;
+        left:200px;
+        width:75px;
+        }
+        input[type=submit]{
+        top:75px;
+        left:10px;
+        }
+    </style>
+</head>
+<body>
+    
+<form>
+    zip code with pattern: <input type="text" name="zip_codeP" pattern="[0-9]{5}" required><br/>
+    zip code with numbers: <input type="number" name="zip_codeN" min ="00000" max = "99999" required><br/>
+    
+<input type="submit">
+</form>
+</body>
+</html>

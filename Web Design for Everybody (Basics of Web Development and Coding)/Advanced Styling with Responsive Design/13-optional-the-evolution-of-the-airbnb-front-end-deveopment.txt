@@ -1,0 +1,8 @@
+This is an interesting article on the evolution of the Airbnb website.
+
+https://www.airbnb.com/meetups/x4ede5jr2-css-frameworks-and-the-evolution-of-airbnb-s-frontend
+
+I think one of the reasons I find it interesting is that the CodeAcademy CSS tutorial actually 
+uses a similar platform to teach about Bootstrap.
+
+This material is not required for the course.

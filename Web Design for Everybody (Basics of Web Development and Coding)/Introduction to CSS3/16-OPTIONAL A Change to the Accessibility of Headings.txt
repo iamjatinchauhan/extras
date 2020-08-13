@@ -1,0 +1,14 @@
+OPTIONAL: A Change to the Accessibility of Headings
+
+It used to be that the general rule was one <h1> heading per page. 
+However, with the advent of HTML5 and its many container elements (aside, section, article, etc.) 
+this rule has changed. Here is a link to an interesting article that explains why multiple <h1> headings 
+will probably improve the accessibility and search engine optimization of your page.
+
+http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824
+
+
+
+But just to be difficult, I will include this link to someone who disagrees.
+
+https://yoast.com/headings-use/

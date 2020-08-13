@@ -1,0 +1,5 @@
+Someone provided me with a link that helped them better understand the 
+meaning of "relative" and "absolute" as they relate to CSS. 
+Here is the link: https://www.w3.org/TR/css3-values/#length-value. 
+This is a fairly technical document and is not required reading for the course.
+

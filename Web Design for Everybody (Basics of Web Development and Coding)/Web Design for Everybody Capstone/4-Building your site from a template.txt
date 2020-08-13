@@ -1,0 +1,34 @@
+Building your site from a template
+
+Another option for your portfolio is to use a pre-existing template. 
+Lets be honest, if you want a webpage there is no reason to create it from 
+scratch if there is existing code you can utilize. 
+The challenge in using a template will be that you need to make sure that you can 
+modify the code to make sure it works for your content AND my requirements 
+(the code needs to pass the w3 validator as well as be responsive.) 
+If you choose this option you will need to include a small write-up describing the changes 
+you made from the original code.
+
+Would you like an example?
+Example One:
+
+Template: http://www.templatemo.com/live/templatemo_446_boxer
+
+Modified site: http://winespto.org/
+
+But....look at the errors that would need 
+to be fixed: https://validator.w3.org/nu/?doc=http%3A%2F%2Fwinespto.org%2F
+
+Example Two:
+
+Template: http://htmlcoder.me/preview/worthy/v.1.0/
+
+Modified site: http://www.intro-webdesign.com/ (Look familiar?)
+
+In this example there were a lot more structural changes since the template didn't exactly match 
+what I was looking for.
+
+If you would like a little more of a refresher, here is a link to a lecture on templates from 
+the Responsive Design course: 
+
+https://www.coursera.org/learn/responsivedesign/lecture/bnAQy

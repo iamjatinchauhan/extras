@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset = "UTF-8">
+    <title>Bootstrap Grid Example</title>
+        <!-- Bootstrap -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    
+    <!--Include Your Style Sheets next -->
+    <style>
+        div{
+            font-size:140%;
+        }
+        div[class^="visible"]{
+          border: 1px solid black;
+          margin-top:3%;
+        }
+        div[class$=lg]{
+          color:red;
+        }
+        div[class$=md]{
+          color:blue;
+        }
+        div[class$=sm]{
+          color:green;
+        }
+    </style>
+</head>
+<body>
+    
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>  
+    <!-- If you don't have the files saved locally, make sure to link it in CodePen, just like you linked the CSS. -->
+    
+    <div class = "container">
+  <div class="row">
+    <div class="col-md-6 col-lg-3">
+        <div class="visible-xs visible-sm">Extra Small and Small Screen</div>
+        <div class="visible-md">Medium Screen</div>
+        <div class="visible-lg">Large Screen</div> 
+    </div>
+    <div class="col-md-6 col-lg-3">
+        <div class="visible-xs visible-sm">Extra Small and Small Screen</div>
+        <div class="visible-md">Medium Screen</div>
+        <div class="visible-lg">Large Screen</div> 
+    </div>
+    <div class="col-md-6 col-lg-3">
+        <div class="visible-xs visible-sm">Extra Small and Small Screen</div>
+        <div class="visible-md">Medium Screen</div>
+        <div class="visible-lg">Large Screen</div> 
+    </div>  
+    <div class="col-md-6 col-lg-3">
+        <div class="visible-xs visible-sm">Extra Small and Small Screen</div>
+        <div class="visible-md">Medium Screen</div>
+        <div class="visible-lg">Large Screen</div> 
+    </div>  
+</div>
+</body>
+</html>

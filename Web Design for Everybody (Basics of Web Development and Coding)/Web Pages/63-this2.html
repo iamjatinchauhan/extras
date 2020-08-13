@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset = "UTF-8">
+    <title>My First Page</title>
+    <style>
+        body{
+		margin: 2%;
+		border: 1px solid black;
+		background-color: #b3b3b3;
+        }
+        #message{
+        line-height:100px;
+        text-align:center;
+		width: 575px;
+        height: 100px;
+		border:5px solid black;
+		margin:0 auto;
+        margin-bottom:10px;
+        background-color: #8e68ff;
+        font-size: 150%;
+        }
+        .preview{
+		width:10%;
+		margin-left:17%;
+        border: 10px solid black;
+        }
+        img{
+		width:95%;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        function showProperties(element){
+        document.getElementById('message').innerHTML = element.alt;
+        }
+    </script>
+    <hr>
+	<div id = "message">
+		Hover over an image to display the alt text.
+	</div>
+	
+	<img class = "preview" alt = "Styling with a Bandana" src = "https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg" onmouseover = "showProperties(this)" onmouseleave = "document.getElementById('message').innerHTML='Hover over an image';">
+	
+	<img class = "preview" alt = "With My Boy" src = "https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon2.JPG" onmouseover = "showProperties(this)" onmouseleave =  "document.getElementById('message').innerHTML='Hover over an image';">
+	
+	<img class = "preview" src = "https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon3.jpg" alt = "Young Puppy" onmouseover = "showProperties(this)" onmouseleave =  "document.getElementById('message').innerHTML='Hover over an image';">
+</body>
+</html>

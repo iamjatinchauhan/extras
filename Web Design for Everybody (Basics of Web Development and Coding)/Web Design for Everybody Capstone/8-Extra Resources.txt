@@ -1,0 +1,10 @@
+As this course repeats I will maintain a collection of recommendations and resources 
+that come up in the forums or previous office hours.
+
+Here is a list of suggestions from previous students.
+
+    Color Schemes: https://coolors.co/
+    Images/Icons: https://thenounproject.com/, http://fontawesome.io/ (this is covered in a later lecture)
+    Creative Commons: https://creativecommons.org/
+    Fonts: https://www.fontsquirrel.com/, http://www.dafont.com/
+

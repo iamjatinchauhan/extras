@@ -1,0 +1,3 @@
+I encourage you to take a moment to test out this code and see if you can recreate it. 
+(The starter code is in the resources.) If you can't play with the screen size on your machine, 
+don't forget that you can use http://ami.responsivedesign.is/ to view sites on different platforms.

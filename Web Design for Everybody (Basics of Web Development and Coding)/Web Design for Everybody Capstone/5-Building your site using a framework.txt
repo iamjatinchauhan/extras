@@ -1,0 +1,34 @@
+Building your site using a framework
+
+The third option is to use an exiting framework such as Bootstrap. 
+This option combines the creative aspects of the scratch option and the structured approach of the template option. 
+You do NOT need to use Bootstrap, you can choose any framework that you would like. 
+You can find a list of possible alternatives here: http://modernweb.com/2014/02/17/8-bootstrap-alternatives/. 
+Of course you are free to utilize other options as well.
+
+I want to let you know that many of my students choose the framework option, 
+but struggle getting some of the code to adhere to proper standards. 
+In your project you will need to make sure that you adhere to the w3 and wave validators. 
+The reason that I am sharing this with you is to help you pick a realistic layout for your work.
+
+Example One:
+
+In this example Bootstrap 3 is used.
+
+The site: http://collemc.people.si.umich.edu/WebDesign.html
+
+Make sure to resize the page to check out the responsive design. 
+I have also utilized the Bootstrap carousel. 
+There are issues though with validation and accessibility.
+
+What would you do to address these problems?
+
+You can refer to Weeks Three and Four of the Responsive Design course if you would like to review some 
+of the things you can do with the Bootstrap framework. 
+I only touch on a few of the options though, 
+so the official website is a better source: http://getbootstrap.com/
+
+PS
+
+Thinking about using Bootstrap 4 instead of Bootstrap 3? 
+That would definitely count as an "extra" for your portfolio.

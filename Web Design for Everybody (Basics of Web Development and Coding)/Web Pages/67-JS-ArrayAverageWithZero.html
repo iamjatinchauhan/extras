@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset = "UTF-8">
+    <title>JS - Array Average With Zero</title>
+</head>
+<body>
+    <script>
+    var grades= [];
+    var sum = 0;
+    if (grades.length > 0){
+      for (index = 0; index < grades.length; index++){
+            sum += grades[index];
+      }
+
+      document.write(sum/grades.length);
+    }
+    else
+      document.write("Empty Array");
+</script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+OPTIONAL - Debugging your style with Firebug
+I tend to use Chrome as my browser, and Inspect Element to debug my site. 
+However, here is a tutorial for another very popular development tool - Firebug. 
+This video by Vicki Watson will walk you through how it works. 
+https://www.ostraining.com/blog/coding/bootstrap-firebug/
+

@@ -1,0 +1,6 @@
+OPTIONAL - More resources for learning to debug/develop
+
+If anyonewant to a little bit improve testing and debugging skills using Chrome. 
+Codeschool has free course about DevTools:
+
+https://www.codeschool.com/courses/discover-devtools
